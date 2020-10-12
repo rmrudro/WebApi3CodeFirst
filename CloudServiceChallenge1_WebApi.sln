@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudServiceChallenge1_WebApi", "CloudServiceChallenge1_WebApi\CloudServiceChallenge1_WebApi.csproj", "{0CC136F6-D2D7-4CB4-8DDD-46D993709CC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CC136F6-D2D7-4CB4-8DDD-46D993709CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC136F6-D2D7-4CB4-8DDD-46D993709CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC136F6-D2D7-4CB4-8DDD-46D993709CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC136F6-D2D7-4CB4-8DDD-46D993709CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F635B93-3F7C-458C-9FBC-B1F542C251EA}
+	EndGlobalSection
+EndGlobal
